@@ -14,3 +14,7 @@ var text = "Hello world"
 ``` objectivec
 NSString* text = @"Hello";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
